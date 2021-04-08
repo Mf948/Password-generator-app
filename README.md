@@ -1,5 +1,9 @@
 # Password Generator 	![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
+
+
+
+![PasswordG](PasswordG.png)
 ## Description
 
 Made this project with Javascrip, using a loops booleans and 
