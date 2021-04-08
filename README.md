@@ -9,9 +9,9 @@
 Made this project with Javascrip, using a loops booleans and 
 arrays to enable the user to  generate a random secured password based on users criteria.
 
-Github: 
+App: https://mf948.github.io/Password-generator-app/
 
-app:
+ Github: https://github.com/Mf948/Password-generator-app
 
 ## Table of contents
 
